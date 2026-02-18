@@ -155,7 +155,7 @@ python scripts/get_vendor_summary.py
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
-**Ayushi Mishra**  
+**Shaik Imran**  
 Data Analyst  
 📧 Email: imranshaikeng@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/imran-shaik-0a248a142/)  
